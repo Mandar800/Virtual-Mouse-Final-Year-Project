@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'Movement'
+}
+
+item {
+  id: 2
+  name: 'Left Click'
+}
+
+item {
+  id: 3
+  name: 'Left Double Click'
+}
+
+item {
+  id: 4
+  name: 'Right Click'
+}
+
+item {
+  id: 5
+  name: 'Scroll'
+}
+
+item {
+  id: 6
+  name: 'Nothing'
+}
