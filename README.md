@@ -37,5 +37,5 @@ cursor.
 #### Step 4 - Determining Desired Action From Box Center Location 
   * **if Action == Movement -**
   ![](snap.jpg)
-#### Step 5 - Performing Mouse Action on Different Thread for Different classes 
+#### Step 5 - Performing Cursor Actions on Different Thread  
 ![](mouse.gif)
