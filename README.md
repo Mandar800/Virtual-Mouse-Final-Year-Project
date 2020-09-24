@@ -31,7 +31,8 @@ cursor.
 
 ## Algorithm 
 #### Step 1 - Object Detection by SSD Neural Network 
-![](mouse.gif)
+![](movement.gif)
 #### Step 2 - Calculating Center of Box from Box Co-ordinates 
 #### Step 4 - Determining Desired Action From Box Center Location 
 #### Step 5 - Performing Mouse Action on Different Thread for Different classes 
+![](mouse.gif)
