@@ -14,8 +14,8 @@ left Click, Scroll and Movement of the
 cursor.
 
 ### Additional Tools Used  
-- Pyautogui
-- Opencv
+- [Pyautogui](https://pypi.org/project/PyAutoGUI/)
+- [OpenCV](https://github.com/opencv/opencv)
 
 ### Neural Network Used
 - Single Shot MultiBox Detector (SSD) 
