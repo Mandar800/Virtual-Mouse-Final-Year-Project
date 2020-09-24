@@ -19,3 +19,12 @@ cursor.
 
 ### Neural Network Used
 - Single Shot MultiBox Detector (SSD) 
+
+### Features
+- Cursor Movements
+- Right Click
+- Left Click
+- Double Left Click
+- Scroll
+
+![](mouse.gif)
