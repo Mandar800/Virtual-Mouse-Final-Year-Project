@@ -29,6 +29,9 @@ cursor.
 
 ![](name-of-giphy.gif)
 
+### Gestures
+![](gestures.jpg)
+
 ## Algorithm 
 #### Step 1 - Object Detection by SSD Neural Network 
 ![](movement.gif)
