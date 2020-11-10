@@ -41,5 +41,5 @@ cursor.
   * **if Action == Movement -**
   ![](snap.jpg)
 #### Step 5 - Performing Cursor Operations from Calculations
-
-
+#### Step 2 - Calculating Center of Box from Box Co-ordinates 
+![](mouse.gif)
